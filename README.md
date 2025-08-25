@@ -32,15 +32,35 @@ Teachers can upload playlists, add educational content, and manage student inter
 ---
 ## 📷 Screenshots
 
-### 🔑 Login Page
-![Login Page](screenshots/login.png)
+### 👩‍🎓 Student View
+- **Login / Dashboard**
+  ![Student Dashboard](screenshots/s-dashboard.png)
 
-### 🏠 Student Dashboard
-![Student Dashboard](screenshots/dashboard.png)
+- **Courses**
+  ![Courses Page](screenshots/s-courses.png)
 
-### 🎥 Playlist View
-![Playlist View](screenshots/playlist.png)
+- **Teachers**
+  ![Teachers Page](screenshots/s-teachers.png)
 
-### 👨‍🏫 Teacher Profile
-![Teacher Profile](screenshots/teacher.png)
+- **About**
+  ![About Page](screenshots/s-about.png)
+
+- **Contact**
+  ![Contact Page](screenshots/s-contact.png)
+
+---
+
+### 👨‍🏫 Teacher View
+- **Dashboard**
+  ![Teacher Dashboard](screenshots/t-dashboard.png)
+
+- **Playlist**
+  ![Playlist View](screenshots/t-playlist.png)
+
+- **Contents**
+  ![Teacher Contents](screenshots/tcontents.png)
+
+- **Comments**
+  ![Teacher Comments](screenshots/teacher-comments.png)
+
 
